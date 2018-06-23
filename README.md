@@ -5,3 +5,10 @@ Learning how to use these.
 nothing about myself
 ## Second
 nothing about the world
+
+---
+
+```python
+import numpy as np
+```
+I don't know how to finishe it.
