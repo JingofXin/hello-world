@@ -12,3 +12,5 @@ nothing about the world
 import numpy as np
 ```
 I don't know how to finishe it.
+
+$$\frac{x}{y}$$
